@@ -1,0 +1,11 @@
+C:\Users\Neven\OneDrive\Desktop\Repos\CargoShip\obj\Debug\CargoShip.csproj.AssemblyReference.cache
+C:\Users\Neven\OneDrive\Desktop\Repos\CargoShip\obj\Debug\CargoShip.csproj.SuggestedBindingRedirects.cache
+C:\Users\Neven\OneDrive\Desktop\Repos\CargoShip\obj\Debug\CargoShip.Form1.resources
+C:\Users\Neven\OneDrive\Desktop\Repos\CargoShip\obj\Debug\CargoShip.Properties.Resources.resources
+C:\Users\Neven\OneDrive\Desktop\Repos\CargoShip\obj\Debug\CargoShip.csproj.GenerateResource.cache
+C:\Users\Neven\OneDrive\Desktop\Repos\CargoShip\obj\Debug\CargoShip.csproj.CoreCompileInputs.cache
+C:\Users\Neven\OneDrive\Desktop\Repos\CargoShip\bin\Debug\CargoShip.exe.config
+C:\Users\Neven\OneDrive\Desktop\Repos\CargoShip\bin\Debug\CargoShip.exe
+C:\Users\Neven\OneDrive\Desktop\Repos\CargoShip\bin\Debug\CargoShip.pdb
+C:\Users\Neven\OneDrive\Desktop\Repos\CargoShip\obj\Debug\CargoShip.exe
+C:\Users\Neven\OneDrive\Desktop\Repos\CargoShip\obj\Debug\CargoShip.pdb
